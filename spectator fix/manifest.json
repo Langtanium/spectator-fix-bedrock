@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Fixes rendering in spectator mode and arms while holding a map \n Made by Langtanium",
+        "name": "Spectator Render Fix",
+        "uuid": "6808c973-ff43-4c6a-9489-5787e08de563",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Fixes rendering in spectator mode and arms while holding a map \n Made by Langtanium",
+            "type": "resources",
+            "uuid": "73f32d93-91c9-40c0-9418-6fe469709cd3",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
